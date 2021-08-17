@@ -19,3 +19,5 @@ Technologies used
 Known Bugs
 
 no bugs yet incase of any contact me through nyamweyakepha@gmail.com
+
+MIT license.
